@@ -3,7 +3,7 @@ This app was a learning curve for me to getting to understand the world of cloud
 This app was built with NodeJS as a language of choice, PostgreSQL as a database addon on Heroku and other dependencies can be seen in the [package.json](https://github.com/Henry-idiotium/my-todo-page-heroku/blob/main/cloud-todo-page/package.json).
 The content table below serve the purpose of providing understanding to beginers the process of deploying an app to Heroku. 
 
-# Content Table — Deployment process
+# Deployment process
 ### 1.	Git configuration
 #### 1.1.	Git init
 Initialize a  **.git**  file to manage changes for the project folder.
